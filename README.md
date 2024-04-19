@@ -4,11 +4,11 @@ I'm a passionate full-stack developer with expertise in building modern web appl
 
 ## Skills:
 
-Backend: Java, Spring Boot, Spring Data MongoDB (Optional: Add specific Spring Boot features you're familiar with)
-Frontend: React.js
-Cloud: Azure Cloud (App Service, AKS, etc.)
-Database: MongoDB
-CI/CD pipelines with Azure DevOps
+- Backend: Java, Spring Boot, Spring Data MongoDB
+- Frontend: React.js
+- Cloud: Azure Cloud (App Service, AKS, etc.)
+- Database: MongoDB
+- CI/CD pipelines with Azure DevOps
 
 ## Looking to:
 
